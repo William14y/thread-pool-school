@@ -64,5 +64,5 @@ public class AlunoController {
         } else {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND);
         }
-        }
-        }
+    }
+}
